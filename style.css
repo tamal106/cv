@@ -1,0 +1,15 @@
+h1{
+    color: red;
+}
+
+#circle{
+    background: #fff;
+  height: 200px;
+  width: 200px;
+  border: 20px solid;
+  border-radius: 50%;
+  border-color: green green red red;
+  background: -moz-linear-gradient(left, red, red 20%, blue 20%, blue);
+  transform: rotate(90deg);
+    display: inline-block;
+}
